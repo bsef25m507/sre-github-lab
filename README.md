@@ -167,16 +167,6 @@ The following conditions will be used to verify the functional requirements.
 
 This repository contains the project vision, initial requirements and documentation for the University Badminton Management System.
 
-Application implementation has not started.
-
-To obtain the project files, clone the GitHub repository:
-
-`git clone https://github.com/bsef25m507/sre-github-lab.git`
-
-Navigate to the repository folder and open README.md using a Markdown-compatible editor such as Visual Studio Code or view the rendered documentation on GitHub.
-
-No application installation or execution commands are required at this stage.
-
 ## 9. Project Team / Authors
 
 **Course:** Software Requirements Engineering
